@@ -1,4 +1,4 @@
-#include "myheader.h"
+#include "SimpleCalculator.h"
 
 int main() 
 {
