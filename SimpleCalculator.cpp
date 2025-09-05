@@ -1,4 +1,5 @@
 #include "SimpleCalculator.h"
+#include <iostream>
 
 int main() 
 {
